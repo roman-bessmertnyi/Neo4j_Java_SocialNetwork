@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/roman-bessmertnyi/Neo4j_Java_SocialNetwork.svg?branch=master)](https://travis-ci.org/roman-bessmertnyi/Neo4j_Java_SocialNetwork)
-[![codecov](https://codecov.io/gh/KithStrelets/Neo4j_Java_SocialNetwork/branch/master/graph/badge.svg)](https://codecov.io/gh/KithStrelets/Neo4j_Java_SocialNetwork)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/86a6f4bff2b74666b03657aa0a1cb552)](https://www.codacy.com/app/KithStrelets/Neo4j_Java_SocialNetwork?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KithStrelets/Neo4j_Java_SocialNetwork&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/86a6f4bff2b74666b03657aa0a1cb552)](https://www.codacy.com/app/KithStrelets/Neo4j_Java_SocialNetwork?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KithStrelets/Neo4j_Java_SocialNetwork&amp;utm_campaign=Badge_Coverage)
+[![codecov](https://codecov.io/gh/roman-bessmertnyi/Neo4j_Java_SocialNetwork/branch/master/graph/badge.svg)](https://codecov.io/gh/roman-bessmertnyi/Neo4j_Java_SocialNetwork)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/7ef87334b5fa406286ab383e0a3d4b38)](https://www.codacy.com/app/roman-bessmertnyi/Neo4j_Java_SocialNetwork?utm_source=github.com&utm_medium=referral&utm_content=roman-bessmertnyi/Neo4j_Java_SocialNetwork&utm_campaign=Badge_Coverage)
 
 ----------
 
