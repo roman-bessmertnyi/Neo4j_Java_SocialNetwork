@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork.iml" filepath="$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork_main.iml" group="Neo4j_Java_SocialNetwork" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Neo4j_Java_SocialNetwork_test.iml" group="Neo4j_Java_SocialNetwork" />
+    </modules>
+  </component>
+</project>

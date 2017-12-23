@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jacoco.examples.java.gradle.Neo4jUsageTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-12-10T19:48:45" hostname="TOSH" time="33.627">
+  <properties/>
+  <testcase name="testGetPeopleAverageLengthTweets" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="25.773"/>
+  <testcase name="testGetOrderedPeopleNameList" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.521"/>
+  <testcase name="testGetTweetsMoreThanLength" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.683"/>
+  <testcase name="testGetOrderedPeopleGroupsCount" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="1.139"/>
+  <testcase name="testGetOrderedGroupsOfPerson" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.724"/>
+  <testcase name="testGetOrderedByAgeMaleNameAgeList" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.48"/>
+  <testcase name="testGetOrderedFriendsOfFriendList" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.763"/>
+  <testcase name="testGetOrderedFriendsCount" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.589"/>
+  <testcase name="testGetOrderedGroups" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.236"/>
+  <testcase name="testGetOrderedFriendList" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.32"/>
+  <testcase name="testGetDeepFriendsGroupsCount" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.631"/>
+  <testcase name="testGetPersonTweets" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.24"/>
+  <testcase name="testGetDeepFriendsTweetsOfPerson" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.747"/>
+  <testcase name="testGetOrderedGroupsCount" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.45"/>
+  <testcase name="testGetPeopleTweetsCount" classname="org.jacoco.examples.java.gradle.Neo4jUsageTest" time="0.319"/>
+  <system-out><![CDATA[getPeopleAverageLengthTweets
+getOrderedPeopleNameList
+getTweetsMoreThanLength
+getOrderedPeopleGroupsCount
+getOrderedGroupsOfPerson
+getOrderedByAgeMaleNameAgeList
+getOrderedFriendsOfFriendList
+getOrderedFriendsCount
+getOrderedGroups
+getOrderedFriendList
+getDeepFriendsGroupsCount
+getPersonTweets
+getDeepFriendsTweetsOfPerson
+getOrderedGroupsCount
+getPeopleTweetsCount
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

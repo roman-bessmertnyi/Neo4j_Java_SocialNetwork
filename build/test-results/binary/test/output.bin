@@ -1,0 +1,16 @@
+getPeopleAverageLengthTweets
+getOrderedPeopleNameList
+getTweetsMoreThanLength
+getOrderedPeopleGroupsCount
+getOrderedGroupsOfPerson
+ getOrderedByAgeMaleNameAgeList
+getOrderedFriendsOfFriendList
+	getOrderedFriendsCount
+
+getOrderedGroups
+getOrderedFriendList
+getDeepFriendsGroupsCount
+getPersonTweets
+getDeepFriendsTweetsOfPerson
+getOrderedGroupsCount
+getPeopleTweetsCount
